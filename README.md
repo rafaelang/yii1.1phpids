@@ -32,13 +32,3 @@ in version 0.2 and enable the callback parameters were added.
 
     enable - performs the functions of the IDS is true. If false ignores the IDS. Receives a BOOL value or a function that returns a bool value, if passed a parameter is_callable, this parameter is passed to call_user_func (see PHP manual).
 
-Resources
-
-    Project page
-    Try out a demo
-
-More...
-
-    More security in your aplications with Yii and PHPIDS [Wiki]
-
-    Mais segurança nas suas aplicações com Yii e PHPIDS [Wiki]
